@@ -1,5 +1,7 @@
 import sqlite3
 
+# Codigo para visaulizar la base de datos en python
+
 # Conectar a la base de datos
 conn = sqlite3.connect('BasedeDatosPersonal.db')
 
