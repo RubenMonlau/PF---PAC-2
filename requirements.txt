@@ -1,0 +1,3 @@
+msys2 mingw64
+g++
+sqlite3
